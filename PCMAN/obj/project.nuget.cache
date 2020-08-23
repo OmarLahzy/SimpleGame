@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3anp/W4YwosTBBWpnNOhAzZxJxGNa9tBygAM1pMvjWXPFiBqP7XIA6CuI8SsOPrYAH4z/5vI5/7VJCT6Ev9iig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omar Gamal\\source\\repos\\PCMAN\\PCMAN\\PCMAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar Gamal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

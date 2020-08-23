@@ -1,0 +1,15 @@
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\bin\Debug\netcoreapp3.1\PCMAN.exe
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.csprojAssemblyReference.cache
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.AssemblyInfoInputs.cache
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.AssemblyInfo.cs
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\bin\Debug\netcoreapp3.1\PCMAN.deps.json
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\bin\Debug\netcoreapp3.1\PCMAN.runtimeconfig.json
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\bin\Debug\netcoreapp3.1\PCMAN.runtimeconfig.dev.json
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\bin\Debug\netcoreapp3.1\PCMAN.dll
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\bin\Debug\netcoreapp3.1\PCMAN.pdb
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.csproj.CoreCompileInputs.cache
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.csproj.CopyComplete
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.dll
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.pdb
+C:\Users\Omar Gamal\source\repos\PCMAN\PCMAN\obj\Debug\netcoreapp3.1\PCMAN.genruntimeconfig.cache
