@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omar Gamal\\source\\repos\\PCMAN\\PCMAN\\PCMAN.csproj",
+      "projectUniqueName": "C:\\Users\\Omar Gamal\\source\\repos\\SimpleGame\\PCMAN\\PCMAN.csproj",
       "projectName": "PCMAN",
-      "projectPath": "C:\\Users\\Omar Gamal\\source\\repos\\PCMAN\\PCMAN\\PCMAN.csproj",
+      "projectPath": "C:\\Users\\Omar Gamal\\source\\repos\\SimpleGame\\PCMAN\\PCMAN.csproj",
       "packagesPath": "C:\\Users\\Omar Gamal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omar Gamal\\source\\repos\\PCMAN\\PCMAN\\obj\\",
+      "outputPath": "C:\\Users\\Omar Gamal\\source\\repos\\SimpleGame\\PCMAN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omar Gamal\\AppData\\Roaming\\NuGet\\NuGet.Config",

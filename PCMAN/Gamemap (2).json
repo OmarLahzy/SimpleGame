@@ -1,0 +1,58 @@
+{
+  "GoldCheast": 
+    {
+      "Cellrow": 2,
+      "Cellcol": 2,
+      "Type": "GoldChest"
+    }
+  ,
+  "silverCheast": 
+    {
+      "Cellrow": 4,
+      "Cellcol": 3,
+      "Type": "silverCheast"
+    }
+  ,
+  "bronzeCheast":
+    {
+      "Cellrow": 1,
+      "Cellcol": 3,
+      "Type": "bronzeCheast"
+    }
+  ,
+  "goldkey": 
+    {
+      "Cellrow": 5,
+      "Cellcol": 2,
+      "Type": "goldkey"
+    }
+  ,
+  "silverkey": 
+    {
+      "Cellrow": 3,
+      "Cellcol": 5,
+      "Type": "silverkey"
+    }
+    ,
+  "bronzekey": 
+    {
+      "Cellrow": 4,
+      "Cellcol": 0,
+      "Type": "bronzekey"
+    }
+	  ,
+  "diamond": 
+    {
+      "Cellrow": 5,
+      "Cellcol": 5,
+      "Type": "diamond"
+    }
+  ,
+  "Enemy": 
+    {
+      "Cellrow": 2,
+      "Cellcol": 0,
+      "Hitpoints": 40,
+      "Type": "Enemy"
+    }
+}

@@ -27,7 +27,7 @@ namespace PCMAN
             }
             public void LoadGame()
             {
-                var jsonText = File.ReadAllText("C:\\Users\\Omar Gamal\\Downloads\\Gamemap (2).json");
+                var jsonText = File.ReadAllText("..//..//..//Gamemap (2).json");
                 var obj = JsonConvert.DeserializeObject<JObject>(jsonText);
 
                 foreach (var i in obj)
